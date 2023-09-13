@@ -1,6 +1,10 @@
 # pokedex
  A simple pokedex project
 
+ ---
+
+ ## Features
+
 - [ ] 1. Lista de Pokemon: Apresente uma lista completa de Pokemon em ordem numérica para que os usuários possam percorrê-la facilmente.
 
 - [ ] 2. Pesquisa por Nome ou Número: Permita que os usuários pesquisem Pokemon pelo nome ou número da Pokedex para encontrar informações específicas rapidamente.
