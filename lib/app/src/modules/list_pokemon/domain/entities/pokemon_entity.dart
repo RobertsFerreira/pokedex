@@ -1,5 +1,5 @@
-import 'package:pokedex/app/src/modules/pokedex/domain/entities/ability_entity.dart';
-import 'package:pokedex/app/src/modules/pokedex/domain/entities/type_entity.dart';
+import 'package:pokedex/app/src/modules/list_pokemon/domain/entities/ability_entity.dart';
+import 'package:pokedex/app/src/modules/list_pokemon/domain/entities/type_entity.dart';
 
 import 'stats_entity.dart';
 
