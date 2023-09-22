@@ -9,6 +9,7 @@ class PokemonEntity {
   final double height;
   final double weight;
   final int order;
+  final String sprite;
   final List<TypeEntity> types;
   final List<AbilityEntity> abilities;
   final List<StatsEntity> stats;
@@ -22,5 +23,6 @@ class PokemonEntity {
     required this.types,
     required this.abilities,
     required this.stats,
+    required this.sprite,
   });
 }
