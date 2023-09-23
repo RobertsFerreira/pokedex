@@ -4,5 +4,8 @@ class StatsEntity {
   final double baseStat;
   final EnumStatsPokemon stats;
 
-  StatsEntity({required this.baseStat, required this.stats});
+  StatsEntity({
+    required this.baseStat,
+    required this.stats,
+  });
 }
